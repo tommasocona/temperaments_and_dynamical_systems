@@ -1,2 +1,2 @@
 # temperaments_and_dynamical_systems
-Notes on acoustic and tuning and temperament theory, with models and applications using dynamical systems and analytical mechanics.
+Research notes on musical temperaments, acoustics, dynamical systems, Hamiltonian mechanics and computational models of intonation.
